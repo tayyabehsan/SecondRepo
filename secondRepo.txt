@@ -1,0 +1,11 @@
+This is my scondRepo which I created on the web and then cloned it to local computer.
+
+I used SSH method to do it.
+
+$git clone "SSH-URL"
+
+ls -ltr "For contents of directory"
+
+cd - "for going on directory up"
+
+This file will be pushed to server.
